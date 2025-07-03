@@ -158,6 +158,7 @@ Santimetre hassasiyetinde otonom tarım makineleri
 
 **Geliştirici:** Bedirhan Örseloğlu  
 **GitHub:** [@bedirhanorseloglu](https://github.com/bedirhanorseloglu)  
+**LinkedIn:** .[https://www.linkedin.com/in/bedirhanorseloglu/]
 
 
 ## 🙏 Teşekkürler
