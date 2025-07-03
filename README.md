@@ -157,8 +157,8 @@ Santimetre hassasiyetinde otonom tarım makineleri
 ## 📞 İletişim
 
 **Geliştirici:** Bedirhan Örseloğlu  
-**GitHub:** [@bedirhanorseloglu](https://github.com/bedirhanorseloglu)  
-**LinkedIn:** .[https://www.linkedin.com/in/bedirhanorseloglu/]
+**GitHub:** [@bedirhanorseloglu/githhub](https://github.com/bedirhanorseloglu)  
+**LinkedIn:** [@bedirhanorseloglu/linkedin](https://www.linkedin.com/in/bedirhanorseloglu/)
 
 
 ## 🙏 Teşekkürler
